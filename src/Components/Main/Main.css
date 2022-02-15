@@ -1,0 +1,27 @@
+.main {
+    background-color: #343633;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    
+}
+
+.infoBoxes {
+    background-color: #343633;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    height: 80%;
+}
+
+.infoBox {
+    background-color: #343633;
+    padding: 0px;
+    border-width: 3px;
+    margin: 10px;
+    border-radius: 8%;
+    
+}
+
+
